@@ -4,7 +4,7 @@
 
 ## Web:
 
-https://lrusso.github.io/Quake1/Quake1.htm
+https://shutdownofficial.github.io/Quake1/Quake1.htm
 
 ## Based on the work of:
 
